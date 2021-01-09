@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Iğdırda Kentsel Dönüşüm Semineri
+date:   2013-07-09 16:02:00 +0300
+image:  sehir4.jpg
+tags:   [İnternette Biz]
+---
+
+Bakan Yardımcımız Sayın Muhammet Balta’nın da katıldığı seminere Genel Müdürlüğümüz Harita Emlak Yönetimi Daire Başkanı Sayın Necmettin Aslantürk konuşmacı olarak katıldı. Tebliğ ve panel olmak üzere iki oturumdan oluşan çalışmalara, Ardahan ve Erzurum İlleri Çevre ve Şehircilik İl Müdürlükleri İl Müdürü düzeyinde katılım sağlandı. Civar İllerin Çevre ve Şehircilik İl Müdürlükleri ve Belediye Başkanlıkları, Vali Yardımcısı Sayın Hacı Uzkuç, Belediye Başkanları ve Kaymakamları, Kamu Kurum ve Kuruluşları, YDK ve STK lar, TOBB Iğdır Temsilciliği ve vatandaşlarca yoğun ilgi gösterildi.
+
+![]({{site.baseurl}}/img/hb4.jpg)
+
+Konuşmacılar özetle seminerin, Iğdır’ın kentsel dönüşümüne ışık tutacağını ve kentsel dönüşüm algısının yaygınlaştırılmasın rol oynayacağını belirttiler. Tebliğ oturumu ve panel oturumuyla devam eden seminerde çok sayıda bilim insanı, uzman ve bürokratların konuşma yaptığı oturumun sonunda konukların soruları ilgililerce cevaplandı.
+
+[Habere Git](https://emlakguncel.com/igdirda-kentsel-donusum-semineri/)

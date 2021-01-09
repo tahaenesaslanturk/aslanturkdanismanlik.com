@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Üzümlü Kentsel Dönüşüme Hazırlanıyor"
+date:   2013-05-21 18:05:55 +0300
+image:  sehir.jpg
+tags:   [İnternette Biz]
+---
+Üzümlü’ye gelen Çevre ve Şehircilik Bakanlığı Altyapı Hizmetleri ve Kentsel Dönüşüm Genel Müdürlüğü Daire Başkanı Necmettin Aslantürk, Belediye Başkanı Av. Sami Sertadım ile birlikte ilçede yapılacak olan kentsel dönüşüm projesi ile ilgili incelemelerde bulundu.
+
+![]({{site.baseurl}}/img/hb2.png)
+
+Son yıllarda yapılan TOKİ projeleri ile modern bir ilçe haline gelmeye başlayan Üzümlü ilçesi şimdide kentsel dönüşüme hazırlanıyor. 2012 yılının sonunda ilçede uygulanmaya başlayan yeni çarşı projesi ile birlikte uygulanacak olan kentsel dönüşüm projesi ilçeyi daha modern ve yaşanabilir bir hale getirecek.          Erzincan Çevre ve Şehircilik İl Müdürü Fatih Gündüz ve beraberindeki heyetinde hazır bulunduğu incelemelerde Üzümlü Belediye Başkanı Av. Sami Sertadım, Üzümlü’de yapılması gereken kentsel dönüşüm çalışmalarını Daire Başkanı Necmettin Aslantürk’e yerinde anlattı. Babacan, Çay, Oruçlu ve Üçler Mahallesinde detaylı olarak incelemelerde bulunan heyet, Başkan Sertadım’dan bilgiler aldılar.          Yapılan incelemelerin ardından konuşan Daire Başkanı Necmettin Aslantürk, Üzümlü’ye geliş amaçlarının tüm Türkiye’de başlattıkları kentsel dönüşümü Üzümlü’de de başlatmak ve bu dönüşüme katkı sağlamak olduğunu söyleyerek “Belediye ile işbirliği içerisinde Üzümlü’de nasıl bir dönüşüm yapılabilir diye arkadaşlarımızla birlikte çalışma içerisindeyiz. Üzümlü’de kentsel dönüşüm yapılacak olan mahallelerde incelemelerde bulunarak notlarımızı aldık. Yapılacak çalışmalarla ilgili Başkan beyle görüşmelerde bulunduk. Beraber ilçeyi geçerek kentsel dönüşümün uygulanacağı yerleri yerinde gördük. ” dedi.          Konu ile ilgili konuşan Belediye Başkanı Sertadım, kentsel dönüşüm projesi  ile birlikte Üzümlü’nün daha modern bir hale geleceğinin altını çizerek “İlçemizde projelendirdiğimiz kent dönüşüm çalışmaları kapsamında Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü Daire Başkanı Necmettin Aslantürk ve çalışma arkadaşlarını ağırlayarak dönüşüm yapılacak alanlarda gözlemlerde bulunduk. Kentsel dönüşüm çalışmalarında yöre mimarisi ve ihtiyaçları göz önüne alınarak ilçe karakterine uygun bir dönüşümün müzakereleri yapıldı. Dönüşüm çalışmaları tasarlandığı gibi başarılı bir şekilde devam etmektedir. Önümüzdeki aylarda Bakanlar Kurulundan onay alındıktan sonra dönüşüm fiilen başlamış olacak. Bu çalışma tamamlandığında Üzümlümüz Çarşı Projesi ve Toki Projesi ile birlikte bambaşka bir vizyona kavuşmuş olacak. Şimdiden projemizin hayırlı olmasını diliyorum” dedi.
+
+[Habere Git](http://www.dogugazetesi.com/gundem/uzumlu-kentsel-donusume-hazirlaniyor-h1593.html)

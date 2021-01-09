@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Kentsel Dönüşüm Semineri
+date:   2013-09-30 16:03:50 +0300
+image:  sehir3.jpg
+tags:   [İnternette Biz]
+---
+##### BİLGİLENDİRME TOPLANTISI
+
+![]({{site.baseurl}}/img/hb3.jpg)
+
+Türkiye Belediyeler Birliği ve Çevre ve Şehircilik Bakanlığı uzmanlarının katılımıyla Kentsel Dönüşüm bilgilendirme toplantısı gerçekleştirildi. Trabzon’da Zorlu Grand Otel’de başlayan seminer 2 gün sürdü. Seminerin ilk oturumunda Bakanlık Alt yapı ve Kentsel Dönüşüm Genel Müdürlüğü Daire Başkanları ve Şube Müdürleri katıldı. Seminerde Genel Müdür vekili Tamer İnan, Coşkun Sağır, Zeynep Afşaören, Necmettin Aslantürk ve Doğu Karadeniz Bölgesi ve Çevresi Taşkın yönetimi konusunda Dr. Emre Akçalı katılımcılara sunum yaptı.
